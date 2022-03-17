@@ -1,0 +1,22 @@
+{
+  "name": "hyperioncodenight",
+  "version": "1.0.0",
+  "description": "hyper dev",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredz1/HDCSCodingEvening2022Q1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredz1/HDCSCodingEvening2022Q1/issues"
+  },
+  "homepage": "https://github.com/Fredz1/HDCSCodingEvening2022Q1#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
